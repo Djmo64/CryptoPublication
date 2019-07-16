@@ -914,6 +914,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   p,
   .block p {
     margin: 0;
+    text-indent: 60px;
   }
   .hero-brand {
     margin-bottom: 35px;
